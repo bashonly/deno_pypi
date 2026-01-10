@@ -13,9 +13,9 @@ SELF_DIR = Path(__file__).parent
 binary_to_tag = {
     "deno-x86_64-apple-darwin.zip": "py3-none-macosx_10_12_x86_64",
     "deno-aarch64-apple-darwin.zip": "py3-none-macosx_11_0_arm64",
-    "deno-aarch64-unknown-linux-gnu.zip": "py3-none-manylinux_2_17_aarch64",
+    "deno-aarch64-unknown-linux-gnu.zip": "py3-none-manylinux_2_27_aarch64",
     "deno-x86_64-pc-windows-msvc.zip": "py3-none-win_amd64",
-    "deno-x86_64-unknown-linux-gnu.zip": "py3-none-manylinux_2_17_x86_64",
+    "deno-x86_64-unknown-linux-gnu.zip": "py3-none-manylinux_2_27_x86_64",
 }
 
 
